@@ -2,13 +2,17 @@
 
 A collection of exercises to develop the mind.
 
+-----
+
+**The Generalized Loop**
+
 1. The simplest exercise for the mind is to exercise the body.
 
-2. After, is learning how to eat properly.
+2. It follows that the next natural step is learning how to eat properly.
 
 2. Learn basic skills like cleaning and cooking.
 
-3. Learn new subjects.
+3. Learn new subjects and skills.
 
 4. Come up with ideas. 
 
@@ -20,4 +24,32 @@ A collection of exercises to develop the mind.
 
 8. Rigorize ideas through formality.
 
-9. After, create then go back to 1. 
+9. After, create
+
+10. Go back to 1. 
+
+-----
+
+**Cram And Compile**
+
+1. Devour as much information as possible
+
+2. Compile
+
+3. Apply and create
+
+4. Go to step 1
+
+------
+
+**Following Intuition**
+
+1. Listen to yourself
+
+2. Place your actions to what was listened
+
+3. Till the fields
+
+4. Pick the fruits
+
+5. Go to step 1
