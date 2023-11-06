@@ -56,11 +56,13 @@ A collection of exercises to develop the mind.
 
 -----
 
+**Hardy's Method**
+
 Four hours' creative work a day is about the limit for a mathematician
 
 -----
 
-Smale's Method
+**Smale's Method**
 
 1. Work really hard.
 2. Drink martinis on the beach.
