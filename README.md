@@ -53,3 +53,14 @@ A collection of exercises to develop the mind.
 4. Pick the fruits
 
 5. Go to step 1
+
+-----
+
+Four hours' creative work a day is about the limit for a mathematician
+
+-----
+
+Smale's Method
+
+1. Work really hard.
+2. Drink martinis on the beach.
